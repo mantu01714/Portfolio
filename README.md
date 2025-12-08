@@ -1,9 +1,10 @@
-#  VanshDev. Portfolio
+#  MantuDev. Portfolio
 
 A modern, high-performance developer portfolio featuring a futuristic dark theme, neon green accents, and a "hacker-style" aesthetic. Built to showcase projects, skills, and experience with smooth animations and a fully responsive design.
 
 # Overview
-![Project Preview](assets/MyPortfolio.png)
+<img width="1920" height="878" alt="foliopic" src="https://github.com/user-attachments/assets/5162b6ef-4c39-4d4b-95f1-a0c7ec3b8596" />
+
 
 
 ##  Features
@@ -78,7 +79,7 @@ VITE_EMAILJS_PUBLIC_KEY=your_public_key
 ```bash
 npm run dev
 ```
-Open `http://localhost:5173` in your browser to view the app.
+Open `http://localhost:3000` in your browser to view the app.
 
 ##  Customization
 
@@ -110,5 +111,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Made by Vansh Pratap Singh**
+**Made by Mantu Kumar**
 
