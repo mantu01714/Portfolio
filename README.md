@@ -3,7 +3,8 @@
 A modern, high-performance developer portfolio featuring a futuristic dark theme, neon green accents, and a "hacker-style" aesthetic. Built to showcase projects, skills, and experience with smooth animations and a fully responsive design.
 
 # Overview
-<img width="1920" height="878" alt="foliopic" src="https://github.com/user-attachments/assets/5162b6ef-4c39-4d4b-95f1-a0c7ec3b8596" />
+<img width="1920" height="882" alt="rdme" src="https://github.com/user-attachments/assets/99ebf537-217a-48d1-bd30-a0d8bacb35b1" />
+
 
 
 
